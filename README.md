@@ -4,6 +4,11 @@
 Program oblicza wynik wprowadzonego wyrażenia arytmetycznego.
 
 ### Uruchomienie
-Eeee tak, to python także windows python main.py chyba tak
+1. Instalacja Python w wersji >= 3.6
+2. `git clone https://github.com/kanaji/uni_compilers_project_1`
+3. `python main.py`
 
 ### Testy
+W folderze projektu:
+
+`python -m unittest test.py`
